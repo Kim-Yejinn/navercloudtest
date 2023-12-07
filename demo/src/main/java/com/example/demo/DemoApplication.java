@@ -10,4 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+	public static void test(){
+		System.out.println("그냥 테스트 입니다 ㅎㅎ");
+	}
+
 }
