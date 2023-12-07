@@ -11,7 +11,7 @@ public class DemoApplication {
 	}
 
 	public static void test(){
-		System.out.println("그냥 테스트 입니다 ㅎㅎ");
+		System.out.println("그냥 테스트 입니다 ");
 	}
 
 }
